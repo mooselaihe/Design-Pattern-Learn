@@ -1,9 +1,9 @@
-package com.algorithm.create.abstractFactory;
+package com.algorithm.creationPatterns.abstractFactory;
 
-import com.algorithm.create.abstractFactory.app.Application;
-import com.algorithm.create.abstractFactory.factories.GUIFactory;
-import com.algorithm.create.abstractFactory.factories.MacOSFactory;
-import com.algorithm.create.abstractFactory.factories.WindowsFactory;
+import com.algorithm.creationPatterns.abstractFactory.app.Application;
+import com.algorithm.creationPatterns.abstractFactory.factories.GUIFactory;
+import com.algorithm.creationPatterns.abstractFactory.factories.MacOSFactory;
+import com.algorithm.creationPatterns.abstractFactory.factories.WindowsFactory;
 
 public class Demo {
 

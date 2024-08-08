@@ -1,7 +1,7 @@
-package com.algorithm.create.factoryMethod.factory;
+package com.algorithm.creationPatterns.factoryMethod.factory;
 
 
-import com.algorithm.create.factoryMethod.buttons.Button;
+import com.algorithm.creationPatterns.factoryMethod.buttons.Button;
 
 public abstract class Dialog {
 

@@ -1,4 +1,4 @@
-package com.algorithm.create.factoryMethod.buttons;
+package com.algorithm.creationPatterns.factoryMethod.buttons;
 
 import javax.swing.*;
 import java.awt.*;

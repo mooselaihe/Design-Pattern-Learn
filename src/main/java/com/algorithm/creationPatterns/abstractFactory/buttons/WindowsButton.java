@@ -1,4 +1,4 @@
-package com.algorithm.create.abstractFactory.buttons;
+package com.algorithm.creationPatterns.abstractFactory.buttons;
 
 public class WindowsButton implements Button{
     @Override

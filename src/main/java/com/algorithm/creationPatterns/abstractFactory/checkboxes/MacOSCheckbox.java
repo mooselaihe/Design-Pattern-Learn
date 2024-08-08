@@ -1,4 +1,4 @@
-package com.algorithm.create.abstractFactory.checkboxes;
+package com.algorithm.creationPatterns.abstractFactory.checkboxes;
 
 public class MacOSCheckbox implements Checkbox{
     @Override

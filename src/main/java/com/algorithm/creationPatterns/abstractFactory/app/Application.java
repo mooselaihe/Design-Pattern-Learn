@@ -1,8 +1,8 @@
-package com.algorithm.create.abstractFactory.app;
+package com.algorithm.creationPatterns.abstractFactory.app;
 
-import com.algorithm.create.abstractFactory.buttons.Button;
-import com.algorithm.create.abstractFactory.checkboxes.Checkbox;
-import com.algorithm.create.abstractFactory.factories.GUIFactory;
+import com.algorithm.creationPatterns.abstractFactory.buttons.Button;
+import com.algorithm.creationPatterns.abstractFactory.checkboxes.Checkbox;
+import com.algorithm.creationPatterns.abstractFactory.factories.GUIFactory;
 
 public class Application {
     private Button button;

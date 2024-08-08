@@ -1,8 +1,8 @@
-package com.algorithm.create.factoryMethod;
+package com.algorithm.creationPatterns.factoryMethod;
 
-import com.algorithm.create.factoryMethod.factory.Dialog;
-import com.algorithm.create.factoryMethod.factory.HtmlDialog;
-import com.algorithm.create.factoryMethod.factory.WindowsDialog;
+import com.algorithm.creationPatterns.factoryMethod.factory.Dialog;
+import com.algorithm.creationPatterns.factoryMethod.factory.HtmlDialog;
+import com.algorithm.creationPatterns.factoryMethod.factory.WindowsDialog;
 
 public class Demo {
     private static Dialog dialog;

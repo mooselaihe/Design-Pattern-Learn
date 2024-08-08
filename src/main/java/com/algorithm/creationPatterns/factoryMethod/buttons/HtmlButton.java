@@ -1,4 +1,4 @@
-package com.algorithm.create.factoryMethod.buttons;
+package com.algorithm.creationPatterns.factoryMethod.buttons;
 
 public class HtmlButton implements Button{
     @Override
